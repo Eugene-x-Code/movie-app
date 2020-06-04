@@ -25,11 +25,6 @@ const Overlay = () => {
             Likes
           </Link>
         </S.LI>
-        <S.LI>
-          <Link to="/about" data-testid="about-link" onClick={onClickLink}>
-            About
-          </Link>
-        </S.LI>
       </S.UL>
     </S.Overlay>
   );
