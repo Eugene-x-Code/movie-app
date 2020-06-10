@@ -25,7 +25,7 @@ const Header = ({ color, bgColor, isSearching }) => {
           <S.Container isOpen={isOpen} color={color}>
             <S.LogoLinkContainer isOpen={isOpen}>
               <Link to="/" data-testid="logo-button">
-                movie
+                Filmoteka
               </Link>
             </S.LogoLinkContainer>
             <S.MenuContainer>

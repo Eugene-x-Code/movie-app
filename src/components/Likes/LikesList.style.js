@@ -2,8 +2,7 @@ import styled from 'styled-components';
 import { device } from 'styles/variables';
 import { Link } from 'react-router-dom';
 
-const Container = styled.div`
-`;
+const Container = styled.div``;
 
 const Title = styled.h1`
   margin-bottom: 2rem;
