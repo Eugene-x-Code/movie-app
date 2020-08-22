@@ -8,9 +8,7 @@ const Footer = ({ color }) => {
     <S.Footer>
       <Wrapper>
         <S.Container>
-          <S.Copyright color={color}>
-            <S.Author>Movie</S.Author>
-          </S.Copyright>
+          <S.Copyright color={color} />
         </S.Container>
       </Wrapper>
     </S.Footer>
