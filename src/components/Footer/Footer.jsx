@@ -9,10 +9,7 @@ const Footer = ({ color }) => {
       <Wrapper>
         <S.Container>
           <S.Copyright color={color}>
-            <S.Author>Made by Eugene Ivanenko</S.Author>
-            <a href="https://github.com/Eugene-x-Code?tab=repositories">
-              <S.Github />
-            </a>
+            <S.Author>Movie</S.Author>
           </S.Copyright>
         </S.Container>
       </Wrapper>
